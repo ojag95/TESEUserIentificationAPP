@@ -8,9 +8,8 @@ public class UserData {
     String apellidoP;
     String apellidoM;
 
-    public UserData(String matricula, String contrasenia, String nombre, String apellidoP, String apellidoM) {
+    public UserData(String matricula, String nombre, String apellidoP, String apellidoM) {
         this.matricula = matricula;
-        this.contrasenia = contrasenia;
         this.nombre = nombre;
         this.apellidoP = apellidoP;
         this.apellidoM = apellidoM;

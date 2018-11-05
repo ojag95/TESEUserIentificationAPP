@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">UserIdentification</string>
     <string name="title_activity_log_in">Iniciar sesión</string>
+    <string name="title_activity_qrscanner">TESE Identificación de Equipos</string>
 </resources>
